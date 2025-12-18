@@ -153,7 +153,7 @@ This module also includes a potentiometer that will fix the threshold value, & t
 
 
 ##  Program 
-```
+```c
 #include "main.h"
 ADC_HandleTypeDef hadc1;
 
